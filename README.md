@@ -1,7 +1,11 @@
 # ADA1---Pilas
-pila.py - La clase pila que usan los programas
-evaluador.py - 	Evalúa expresiones aritméticas en notación posfija y prefija, mostrando la pila paso a paso.
-hanoi.py - Juego de las Torres de Hanoi con interfaz gráfica. Manual y automático.
+pila.py: La clase pila que usan los programas
+
+
+evaluador.py: Evalúa expresiones aritméticas en notación posfija y prefija, mostrando la pila paso a paso.
+
+
+hanoi.py: Juego de las Torres de Hanoi con interfaz gráfica. Manual y automático.
 
 Evaluador:
 Tokens separados por espacio. Operadores: + - * / ^
